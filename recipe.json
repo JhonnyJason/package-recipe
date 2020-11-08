@@ -14,10 +14,9 @@
     ],
     "sources": [
         ["submodule"],
-        ["merge", "create"],
+        ["create"],
         {
-            "create": ["clisources"],
-            "merge": ["https://github.com/JhonnyJason/thingycreate-as-thingy-sources", "*"]
+            "create": ["packagesources"]
         }
     ],
     "output": [
