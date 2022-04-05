@@ -30,7 +30,7 @@
         ["directory"],
         ["merge"],
         {
-            "merge": ["https://github.com/JhonnyJason/lenny-unlicense"]
+            "merge": ["https://github.com/JhonnyJason/package-testing-template"]
         }
     ]
 }
